@@ -12,7 +12,7 @@ I'm afraid to spend most of my life waiting for the weekend or the end of my wor
 - HTML
 - CSS
 - Git/GitHub
-- Photoshop
+- Figma
 - Studying JS
 
 ## Code example:
