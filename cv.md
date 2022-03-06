@@ -10,7 +10,7 @@ I'm afraid to spend most of my life waiting for the weekend or the end of my wor
 
 ## Skills and Proficiency:
 - HTML
-- CSS
+- CSS, SASS
 - Git/GitHub
 - Figma
 - Studying JS
